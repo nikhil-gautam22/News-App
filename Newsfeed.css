@@ -1,0 +1,20 @@
+.news-feed {
+  padding: 2rem;
+  background-color: #f9fafb;
+  min-height: 100vh;
+}
+
+.news-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.loading,
+.error-message,
+.no-news-message {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #4b5563;
+  margin-top: 3rem;
+}
