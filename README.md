@@ -1,1 +1,1 @@
-# News-App
+This is a responsive and dynamic News Application built with ReactJS, Context API, and Axios, integrating data from the NewsAPI. The app allows users to browse the latest headlines, search for specific topics or Indian personalities, and filter news by category. It supports both Indian and global news coverage.
